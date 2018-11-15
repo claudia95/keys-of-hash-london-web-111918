@@ -7,6 +7,5 @@ class Hash
           keys << key
         end
       end
-    end
     return keys
 end
